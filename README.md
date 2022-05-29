@@ -1,7 +1,8 @@
-## Gradient Boosting Machine on Ligistic Regression and Bootstrap
+## Gradient Boosting Machine
 
 Enssemble algorithm, written on Python from scratch for binary classification problem.
-As a base model Logistic Regression was choicen.
+As a base algorithm Logistic Regression is being used.
+At the end I use bootstraping for predictions many times (Poisson) and evaluate distrubution of model metricts.
 
 This machine evaluates residuals per estimators.
 
