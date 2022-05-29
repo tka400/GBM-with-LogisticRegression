@@ -1,5 +1,5 @@
-## Hand made Gradient Boosting Machine 
-### (Base model - Logistic Regression, Poisson bootsrap)
+## Gradient Boosting Machine on Ligistic Regression and Bootstrap
+
 Enssemble algorithm, written on Python from scratch for binary classification problem.
 As a base model Logistic Regression was choicen.
 
